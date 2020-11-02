@@ -1,0 +1,24 @@
+.form {
+    display: inline-block;
+    text-align: left;
+    margin: 2rem;
+}
+
+.nameTextBox {
+    margin: 5px;
+}
+
+textarea {
+    height:400px;
+    width: 600px;
+    font-size:14pt;
+    overflow: auto;
+    padding: 10px;
+    background-color: #3CBC8D;
+    color: white;
+}
+
+input[type=text]:focus {
+    border: 3px solid #555;
+  }
+

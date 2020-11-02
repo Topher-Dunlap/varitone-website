@@ -1,0 +1,9 @@
+.isActive {
+    background-color: orange;
+    margin: 25px, 0px; 
+}
+
+.navItem {
+    margin-left: 10px;
+    margin-right: 10px;
+}
