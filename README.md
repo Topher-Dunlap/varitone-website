@@ -6,8 +6,10 @@ modern take on the old technology.
 
 ## Langues and Methods used:
 * React
- * BrowserRouter
- *Switch 
+* BrowserRouter
+* Switch
+* ErrorBoundary
+* Smoke Testing
 * Javascript
 * JSX
 * CSS
